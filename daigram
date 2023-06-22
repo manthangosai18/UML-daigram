@@ -1,0 +1,15 @@
+_________________
+|     Item      |
+|_______________|
+| - id: int     |
+| - description: String |
+| - price: double |
+|_______________|
+| + Item(id: int, description: String, price: double) |
+| + getId(): int |
+| + getDescription(): String |
+| + getPrice(): double |
+| + setPrice(price: double): void |
+| + calculateTotalPrice(quantity: int): double |
+| + yourFirstNameLastName(arg: double): String |
+|________________|
